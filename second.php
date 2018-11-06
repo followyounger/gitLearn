@@ -1,5 +1,5 @@
 <?php
 
 function first() {
-	echo "shijei bei ;
+	echo "shijei bei ";
 }
